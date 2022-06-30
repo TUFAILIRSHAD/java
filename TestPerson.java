@@ -1,4 +1,4 @@
-public class TestPersin {
+public class TestPerson {
     public static void main(String []args){
         Person p1= new Person("Ahmad",20);
         Person p2= new Person("Ahmad",20);
